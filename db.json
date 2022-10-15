@@ -1,0 +1,408 @@
+{
+  "products":
+  [{
+  "sku": "M0E20000000E5PL",
+  "parentID": "351/U",
+  "name": "Mona china full HD 4K",
+  "description": "",
+  "slug": "weg-laceupshoes-diave-351U-mustardyellow",
+  "brand": "Weg",
+  "gender": "men",
+  "hierarchical_categories": {
+    "lvl0": "Men",
+    "lvl1": "Men > Shoes"
+  },
+  "list_categories": [
+    "Men",
+    "Shoes"
+  ],
+  "category_page_id": [
+    "Men > Shoes"
+  ],
+  "image_urls": [
+    "https://scontent.fmyc2-1.fna.fbcdn.net/v/t39.30808-1/300651399_3365098673719088_5935026399459245547_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=l2aP46_ktccAX-tWUUx&_nc_ht=scontent.fmyc2-1.fna&oh=00_AT-gbR9QHHL_nBwCWUM7SET-pjx7KTcmGkmjl_8uTVYE5A&oe=6346D6DA",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638373174/flagship_sunrise/M0E20000000E5PL_1.jpg",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638373175/flagship_sunrise/M0E20000000E5PL_2.jpg"
+  ],
+  "image_blurred": "LeS=@qaJtmozyZkWR4aeR4j[o#ae",
+  "reviews": {
+    "rating": 4,
+    "count": 68,
+    "bayesian_avg": 3.942028985507247
+  },
+  "color": {
+    "filter_group": "yellow;#fff200",
+    "original_name": "mustard yellow"
+  },
+  "available_sizes": [
+    "34",
+    "34.5",
+    "35",
+    "35.5",
+    "36",
+    "36.5",
+    "37",
+    "37.5",
+    "38",
+    "38.5",
+    "39",
+    "39.5",
+    "40",
+    "40.5",
+    "41",
+    "41.5",
+    "42",
+    "42.5",
+    "43",
+    "43.5",
+    "44",
+    "44.5",
+    "45",
+    "45.5",
+    "46"
+  ],
+  "variants": [
+    {
+      "sku": "M0E20000000E5PM",
+      "abbreviated_size": "34.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PN",
+      "abbreviated_size": "35",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PO",
+      "abbreviated_size": "35.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PP",
+      "abbreviated_size": "36",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PQ",
+      "abbreviated_size": "36.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PR",
+      "abbreviated_size": "37",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PS",
+      "abbreviated_size": "37.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PT",
+      "abbreviated_size": "38",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PU",
+      "abbreviated_size": "38.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PV",
+      "abbreviated_size": "39",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PW",
+      "abbreviated_size": "39.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PX",
+      "abbreviated_size": "40",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PY",
+      "abbreviated_size": "40.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PZ",
+      "abbreviated_size": "41",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q0",
+      "abbreviated_size": "41.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q1",
+      "abbreviated_size": "42",
+      "in_stock": true
+    },
+    {
+      "sku": "M0E20000000E5Q2",
+      "abbreviated_size": "42.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q3",
+      "abbreviated_size": "43",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q4",
+      "abbreviated_size": "43.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q5",
+      "abbreviated_size": "44",
+      "in_stock": true
+    },
+    {
+      "sku": "M0E20000000E5Q6",
+      "abbreviated_size": "44.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q7",
+      "abbreviated_size": "45",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q8",
+      "abbreviated_size": "45.5",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5Q9",
+      "abbreviated_size": "46",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000E5PL",
+      "abbreviated_size": "34",
+      "in_stock": false
+    }
+  ],
+  "price": {
+    "currency": "EUR",
+    "value": 148.75,
+    "discounted_value": 0,
+    "discount_level": -100,
+    "on_sales": false
+  },
+  "units_in_stock": 0,
+  "created_at": 0,
+  "updated_at": 0,
+  "related_products": [
+    {
+      "objectID": "M0E20000000E5RK",
+      "sku": "M0E20000000E5RK",
+      "parentID": "351/U",
+      "name": "Lace up shoes “Diave“ Weg petrol",
+      "description": "",
+      "slug": "weg-laceupshoes-diave-351U-petrol",
+      "url": "",
+      "i18n": null,
+      "brand": "Weg",
+      "gender": "men",
+      "hierarchical_categories": {
+        "lvl0": "Men",
+        "lvl1": "Men > Shoes"
+      },
+      "list_categories": [
+        "Men",
+        "Shoes"
+      ],
+      "category_page_id": [
+        "Men > Shoes"
+      ],
+      "image_urls": [
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376304/flagship_sunrise/M0E20000000E5RK_0.jpg",
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376305/flagship_sunrise/M0E20000000E5RK_1.jpg",
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376306/flagship_sunrise/M0E20000000E5RK_2.jpg"
+      ],
+      "image_blurred": "LZRpB]Rj-;t7~qt7E1WBD%j[xuWB",
+      "reviews": {
+        "rating": 2,
+        "count": 13,
+        "bayesian_avg": 1.857142857142857
+      },
+      "color": {
+        "filter_group": "petrol;#006470",
+        "original_name": "petrol"
+      },
+      "available_sizes": [
+        "34",
+        "34.5",
+        "35",
+        "35.5",
+        "36",
+        "36.5",
+        "37",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46"
+      ],
+      "variants": [
+        {
+          "sku": "M0E20000000E5RL",
+          "abbreviated_size": "34.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RM",
+          "abbreviated_size": "35",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RN",
+          "abbreviated_size": "35.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RO",
+          "abbreviated_size": "36",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RP",
+          "abbreviated_size": "36.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RQ",
+          "abbreviated_size": "37",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RR",
+          "abbreviated_size": "37.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RS",
+          "abbreviated_size": "38",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RT",
+          "abbreviated_size": "38.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RU",
+          "abbreviated_size": "39",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RV",
+          "abbreviated_size": "39.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RW",
+          "abbreviated_size": "40",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RX",
+          "abbreviated_size": "40.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RY",
+          "abbreviated_size": "41",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000E5RZ",
+          "abbreviated_size": "41.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S0",
+          "abbreviated_size": "42",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S1",
+          "abbreviated_size": "42.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S2",
+          "abbreviated_size": "43",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000E5S3",
+          "abbreviated_size": "43.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S4",
+          "abbreviated_size": "44",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000E5S5",
+          "abbreviated_size": "44.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S6",
+          "abbreviated_size": "45",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S7",
+          "abbreviated_size": "45.5",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5S8",
+          "abbreviated_size": "46",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000E5RK",
+          "abbreviated_size": "34",
+          "in_stock": false
+        }
+      ],
+      "price": {
+        "currency": "EUR",
+        "value": 148.75,
+        "discounted_value": 0,
+        "discount_level": -100,
+        "on_sales": false
+      },
+      "units_in_stock": 0,
+      "created_at": 0,
+      "updated_at": 0,
+      "related_products": null
+    }
+  ],
+  "product_type": "Shoes",
+  "objectID": "M0E20000000E5PL"
+}]}
