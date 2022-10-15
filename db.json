@@ -1,6 +1,7 @@
 {
   "products":
   [{
+    "id": 1,
   "sku": "M0E20000000E5PL",
   "parentID": "351/U",
   "name": "Mona china full HD 4K",
@@ -407,6 +408,7 @@
   "objectID": "M0E20000000E5PL"
 },
   {
+     "id": 2,
   "sku": "M0E20000000DTZB",
   "parentID": "84318",
   "name": "Vest Moncler dark blue",
