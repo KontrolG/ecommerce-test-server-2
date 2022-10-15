@@ -405,4 +405,316 @@
   ],
   "product_type": "Shoes",
   "objectID": "M0E20000000E5PL"
-}]}
+},
+  {
+  "sku": "M0E20000000DTZB",
+  "parentID": "84318",
+  "name": "Vest Moncler dark blue",
+  "description": "",
+  "slug": "moncler-vest-84318-blue",
+  "brand": "Moncler",
+  "gender": "men",
+  "hierarchical_categories": {
+    "lvl0": "Men",
+    "lvl1": "Men > Clothing",
+    "lvl2": "Men > Clothing > Jackets"
+  },
+  "list_categories": [
+    "Men",
+    "Clothing",
+    "Jackets"
+  ],
+  "category_page_id": [
+    "Men > Clothing",
+    "Men > Clothing > Jackets"
+  ],
+  "image_urls": [
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638373012/flagship_sunrise/M0E20000000DTZB_0.jpg",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638373013/flagship_sunrise/M0E20000000DTZB_1.jpg",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638373015/flagship_sunrise/M0E20000000DTZB_2.jpg"
+  ],
+  "image_blurred": "L=K-k8ay~qoLt7j[bIj[-;fQj[j[",
+  "reviews": {
+    "rating": 4,
+    "count": 93,
+    "bayesian_avg": 3.957446808510638
+  },
+  "color": {
+    "filter_group": "blue;#0075BB",
+    "original_name": "dark blue"
+  },
+  "available_sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+  ],
+  "variants": [
+    {
+      "sku": "M0E20000000DTZC",
+      "abbreviated_size": "XS",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZD",
+      "abbreviated_size": "S",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZE",
+      "abbreviated_size": "M",
+      "in_stock": true
+    },
+    {
+      "sku": "M0E20000000DTZF",
+      "abbreviated_size": "L",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZG",
+      "abbreviated_size": "XL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZH",
+      "abbreviated_size": "XXL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZI",
+      "abbreviated_size": "XXXL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DTZB",
+      "abbreviated_size": "XXS",
+      "in_stock": false
+    }
+  ],
+  "price": {
+    "currency": "EUR",
+    "value": 518.75,
+    "discounted_value": 0,
+    "discount_level": -100,
+    "on_sales": false
+  },
+  "units_in_stock": 0,
+  "created_at": 0,
+  "updated_at": 0,
+  "related_products": null,
+  "product_type": "Jackets",
+  "objectID": "M0E20000000DTZB"
+},
+   {
+  "sku": "M0E20000000DUAZ",
+  "parentID": "94645",
+  "name": "Sweater Moncler dark blue",
+  "description": "",
+  "slug": "moncler-sweater-94645-darkblue",
+  "brand": "Moncler",
+  "gender": "women",
+  "hierarchical_categories": {
+    "lvl0": "Women",
+    "lvl1": "Women > Clothing",
+    "lvl2": "Women > Clothing > Tops"
+  },
+  "list_categories": [
+    "Women",
+    "Clothing",
+    "Tops"
+  ],
+  "category_page_id": [
+    "Women > Clothing",
+    "Women > Clothing > Tops"
+  ],
+  "image_urls": [
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376123/flagship_sunrise/M0E20000000DUAZ_0.jpg",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376125/flagship_sunrise/M0E20000000DUAZ_1.jpg",
+    "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376126/flagship_sunrise/M0E20000000DUAZ_2.jpg"
+  ],
+  "image_blurred": "L@Lg;Joz~qWB%MWBRjj[%Mofflay",
+  "reviews": {
+    "rating": 4,
+    "count": 88,
+    "bayesian_avg": 3.955056179775281
+  },
+  "color": {
+    "filter_group": "blue;#0075BB",
+    "original_name": "dark blue"
+  },
+  "available_sizes": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+  ],
+  "variants": [
+    {
+      "sku": "M0E20000000DUB0",
+      "abbreviated_size": "XS",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DUB1",
+      "abbreviated_size": "S",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DUB2",
+      "abbreviated_size": "M",
+      "in_stock": true
+    },
+    {
+      "sku": "M0E20000000DUB3",
+      "abbreviated_size": "L",
+      "in_stock": true
+    },
+    {
+      "sku": "M0E20000000DUB4",
+      "abbreviated_size": "XL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DUB5",
+      "abbreviated_size": "XXL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DUB6",
+      "abbreviated_size": "XXXL",
+      "in_stock": false
+    },
+    {
+      "sku": "M0E20000000DUAZ",
+      "abbreviated_size": "XXS",
+      "in_stock": false
+    }
+  ],
+  "price": {
+    "currency": "EUR",
+    "value": 562.5,
+    "discounted_value": 0,
+    "discount_level": -100,
+    "on_sales": false
+  },
+  "units_in_stock": 0,
+  "created_at": 0,
+  "updated_at": 0,
+  "related_products": [
+    {
+      "objectID": "M0E20000000DUBH",
+      "sku": "M0E20000000DUBH",
+      "parentID": "94645",
+      "name": "Sweater Moncler black",
+      "description": "",
+      "slug": "moncler-sweater-94645-black",
+      "url": "",
+      "i18n": null,
+      "brand": "Moncler",
+      "gender": "women",
+      "hierarchical_categories": {
+        "lvl0": "Women",
+        "lvl1": "Women > Clothing",
+        "lvl2": "Women > Clothing > Tops"
+      },
+      "list_categories": [
+        "Women",
+        "Clothing",
+        "Tops"
+      ],
+      "category_page_id": [
+        "Women > Clothing",
+        "Women > Clothing > Tops"
+      ],
+      "image_urls": [
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376152/flagship_sunrise/M0E20000000DUBH_0.jpg",
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376153/flagship_sunrise/M0E20000000DUBH_1.jpg",
+        "https://res.cloudinary.com/hilnmyskv/image/upload/v1638376154/flagship_sunrise/M0E20000000DUBH_2.jpg"
+      ],
+      "image_blurred": "L+MH78WC_NWBa$WBkBj[_3ozRkoL",
+      "reviews": {
+        "rating": 1,
+        "count": 72,
+        "bayesian_avg": 0.9863013698630136
+      },
+      "color": {
+        "filter_group": "black;#333",
+        "original_name": "black"
+      },
+      "available_sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "variants": [
+        {
+          "sku": "M0E20000000DUBI",
+          "abbreviated_size": "XS",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000DUBJ",
+          "abbreviated_size": "S",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000DUBK",
+          "abbreviated_size": "M",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000DUBL",
+          "abbreviated_size": "L",
+          "in_stock": true
+        },
+        {
+          "sku": "M0E20000000DUBM",
+          "abbreviated_size": "XL",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000DUBN",
+          "abbreviated_size": "XXL",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000DUBO",
+          "abbreviated_size": "XXXL",
+          "in_stock": false
+        },
+        {
+          "sku": "M0E20000000DUBH",
+          "abbreviated_size": "XXS",
+          "in_stock": false
+        }
+      ],
+      "price": {
+        "currency": "EUR",
+        "value": 562.5,
+        "discounted_value": 0,
+        "discount_level": -100,
+        "on_sales": false
+      },
+      "units_in_stock": 0,
+      "created_at": 0,
+      "updated_at": 0,
+      "related_products": null
+    }
+  ],
+  "product_type": "Tops",
+  "objectID": "M0E20000000DUAZ"
+}
+  ]}
